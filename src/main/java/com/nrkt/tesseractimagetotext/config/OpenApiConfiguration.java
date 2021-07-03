@@ -11,7 +11,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.HandlerMethod;
 
 @Configuration
-@OpenAPIDefinition(info = @Info(title = "Spring Boot OCR Example", version = "0.0.1"))
+@OpenAPIDefinition(info = @Info(title = "Spring Boot OCR Example",
+        version = "0.0.1",
+        description = "Extracting Text from Image with Tesseract OCR Example Project "))
 public class OpenApiConfiguration implements OperationCustomizer {
 
     @Override
