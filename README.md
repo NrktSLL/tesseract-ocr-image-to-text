@@ -1,10 +1,10 @@
-# Tesseract OCR Image To Text
+# Text Output From Image with Tesseract OCR 
 > (University Final Project)
 
 > It is a project created using Tesseract OCR and OpenCV, which allows outputting the characters in the Image. 
 
 <p align="center">
-<img src="https://github.com/NrktSLL/tesseract-ocr-image-to-text/blob/master/images/tesseract-ocr-image-to-text.png" alt="Tesseract OCR Image To Text" width="100%" height="100%"/> 
+<img src="https://github.com/NrktSLL/tesseract-ocr-image-to-text/blob/master/images/tesseract-ocr-image-to-text.png" alt="tesseract-ocr-image-to-text" width="100%" height="100%"/> 
 </p>
 
 
@@ -44,5 +44,5 @@ mvn clean package
 ## Swagger
 > **Access : http://localhost:8080/api/documentation/**
 
-<img src="https://github.com/NrktSLL/tesseract-ocr-image-to-text/blob/master/images/tesseract-ocr-image-to-text-swagger.png" alt="Tesseract OCR Image To Text" width="100%" height="100%"/> 
+<img src="https://github.com/NrktSLL/tesseract-ocr-image-to-text/blob/master/images/tesseract-ocr-image-to-text-swagger.png" alt="tesseract-ocr-image-to-text" width="100%" height="100%"/> 
 
